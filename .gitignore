@@ -2,8 +2,9 @@
 .DS_Store
 .*/DS_Store
 
+# Remove the .idea files
 .idea/
-Clustering Results/.DS_Store
-.idea/workspace.xml
-.DS_Store
+.idea/*
+
+# Heavy data files not to be committed
 data/pointclouds/sample_w_normals.xyz
