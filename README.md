@@ -8,5 +8,5 @@ the scene in front of the cameras.
 Important:
 </strong>
 The functionality that triangulates a point cloud isn't available due to the fact that the 
-pointcloud used was to lage to upload on GitHub. So if the user tries to run that function 
+pointcloud used was to large to upload on GitHub. So if the user tries to run that function 
 by pressing the button <strong>G</strong> the program will crash.
